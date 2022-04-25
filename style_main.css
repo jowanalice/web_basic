@@ -1,10 +1,11 @@
 body{
     margin:50px;
     font-size:30px;
-    
+    background-color: black;
+    color:aliceblue;
 }
 a {
-    color:black;
+    color:aliceblue;
     text-decoration: none;
 }
 /*
@@ -12,20 +13,21 @@ block level element
 */
 h1{
     font-size:100px;
-    text-align: center;
+    text-align: left;
     font-style:italic;
     border-bottom:1px solid rgb(103, 103, 103);
     margin:0;
     padding:20px;
+    color:aliceblue;
 }
 p{
     text-align: center;
 }
 .saw {
-    color:rgb(67, 67, 67);
+    color:aliceblue;
 }
 .active {
-    color:rgb(24, 28, 89);
+    color:aliceblue;
 }
 ol{
     border-right:1px solid rgb(103, 103, 103);
@@ -51,4 +53,7 @@ ol{
     ol{
         border-right:none;
     }
+    body{font-size: 20px;
+    }
+    img{width: 400px;}
 }
