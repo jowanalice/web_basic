@@ -3,6 +3,7 @@ body{
     font-size:20px;
     color: aliceblue;
     background-color:black;
+    background-image: url('bg.gif');
 }
 a {
     color:aliceblue;
@@ -12,8 +13,7 @@ a {
 block level element
 */
 h1{
-    font-style:italic;
-    border-bottom:1px solid rgb(103, 103, 103);
+    border-bottom:5px solid rgb(103, 103, 103);
     margin:0;
     padding:20px;
     color: aliceblue;
@@ -28,7 +28,7 @@ p{
     color:white;
 }
 ol{
-    border-right:1px solid rgb(103, 103, 103);
+    border-right:0px solid rgb(103, 103, 103);
     width:130px;
     margin:0px;
     padding: 30px;
