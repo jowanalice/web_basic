@@ -55,3 +55,12 @@ ol{
 h5{
     text-decoration:underline ;
 }
+h2{
+    font-size: large;
+}
+h6{
+    text-decoration: bold;
+    font-size: large;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
